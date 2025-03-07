@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOpPkjKxzak=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ShuKu\\source\\repos\\WPF\\QR code generator\\QR code generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShuKu\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ShuKu\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\ShuKu\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

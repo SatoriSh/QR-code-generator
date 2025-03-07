@@ -1,0 +1,24 @@
+C:\Users\ShuKu\source\repos\WPF\QR code generator\bin\Release\net8.0-windows\QR code generator.exe
+C:\Users\ShuKu\source\repos\WPF\QR code generator\bin\Release\net8.0-windows\QR code generator.deps.json
+C:\Users\ShuKu\source\repos\WPF\QR code generator\bin\Release\net8.0-windows\QR code generator.runtimeconfig.json
+C:\Users\ShuKu\source\repos\WPF\QR code generator\bin\Release\net8.0-windows\QR code generator.dll
+C:\Users\ShuKu\source\repos\WPF\QR code generator\bin\Release\net8.0-windows\QR code generator.pdb
+C:\Users\ShuKu\source\repos\WPF\QR code generator\bin\Release\net8.0-windows\QRCoder.dll
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code generator.csproj.AssemblyReference.cache
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\App.g.cs
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code generator_MarkupCompile.cache
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code generator_MarkupCompile.lref
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code generator.g.resources
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code generator.AssemblyInfoInputs.cache
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code generator.AssemblyInfo.cs
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code generator.csproj.CoreCompileInputs.cache
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code .F40928A9.Up2Date
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code generator.dll
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\refint\QR code generator.dll
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code generator.pdb
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code generator.genruntimeconfig.cache
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\ref\QR code generator.dll
+C:\Users\ShuKu\source\repos\WPF\QR code generator\obj\Release\net8.0-windows\QR code generator_Content.g.cs
