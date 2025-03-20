@@ -175,7 +175,7 @@
             <RowDefinition Height="0.5*"></RowDefinition>
         </Grid.RowDefinitions>
 
-        <Image x:Name="QRCodeImage" Grid.Row="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Margin="25 25 25 25">
+        <Image x:Name="QRCodeImage" Grid.Row="0" MaxHeight="350" MaxWidth="320" Margin="25 25 25 25">
 
         </Image>
 
